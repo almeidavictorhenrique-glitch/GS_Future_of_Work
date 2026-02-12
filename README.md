@@ -1,5 +1,4 @@
-# GS_Future_of_Work
-Projeto global solutions realizado na faculdade com tema de Trabalho do Futuro em Redes Neurais
+
 # 🤖 Futuro do Trabalho 4.0
 
 > Estudo técnico sobre o impacto da Inteligência Artificial, Automação e Transformação Digital no mercado de trabalho.
